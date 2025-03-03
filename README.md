@@ -1,0 +1,31 @@
+### Hi there, I'm Tushar Sadashiv Neje! 👋
+
+🚀 **Tech Enthusiast | Web Developer | AI Explorer**  
+🎓 **B.Tech Computer Engineering | VIIT Pune**  
+🛠️ **Building Scalable Solutions | Optimizing Workflows**  
+
+---
+
+### 🌟 About Me
+- 💻 Passionate about **Web Development**, **AI**, and **Software Architecture**.
+- ⚡ Love working on **hackathons** & contributing to **open-source**.
+- 🎯 Exploring AI for **sustainable & impactful solutions**.
+
+---
+
+### 🔨 Tech Stack
+- **Languages:** Python, Java, JavaScript, C, C++
+- **Frontend:** Tailwind CSS, HTML, CSS, Bootstrap
+- **Backend:** Django, Flask, PHP
+- **Databases:** MySQL
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tusharneje/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/tusharneje-07)  
+[![Portfolio](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/https://tusharneje.online)
+
+---
+
+💡 **"Building Tech for a Better Tomorrow!"** 🚀
