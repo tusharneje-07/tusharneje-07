@@ -24,7 +24,7 @@
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tusharneje/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/tusharneje-07)  
-[![Portfolio](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/https://tusharneje.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=googlechrome)](https://tusharneje.online)
 
 ---
 
