@@ -30,17 +30,24 @@
 
 ## 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharneje-07&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharneje-07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharneje-07&theme=react&hide_border=true&show_icons=true&count_private=true" width="45%" alt="Tushar's GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharneje-07&theme=react&hide_border=true&layout=compact" width="45%" alt="Tushar's Most Used Languages"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharneje-07&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharneje-07&theme=react&hide_border=true" width="48%" alt="Tushar's GitHub Streak"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharneje-07&theme=react-dark&hide_border=true" width="48%" alt="Tushar's Contribution Graph"/>
+
+</div>
+
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharneje-07&theme=react-dark&hide_border=true)
