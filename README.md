@@ -30,22 +30,16 @@
 
 ## 📈 My GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharneje-07&theme=react&hide_border=true&show_icons=true&count_private=true" width="45%" alt="Tushar's GitHub Stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharneje-07&theme=react&hide_border=true&layout=compact" width="45%" alt="Tushar's Most Used Languages"/>
-
+<div align="center" style="display: flex; overflow:scroll; gap:2;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharneje-07&theme=react&hide_border=true&show_icons=true&count_private=true" alt="Tushar's GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharneje-07&theme=react&hide_border=true&layout=compact" width="45%" alt="Tushar's Most Used Languages"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharneje-07&theme=react&hide_border=true" alt="Tushar's GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharneje-07&theme=react&hide_border=true" width="48%" alt="Tushar's GitHub Streak"/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharneje-07&theme=react-dark&hide_border=true" width="48%" alt="Tushar's Contribution Graph"/>
-
 </div>
 
 
