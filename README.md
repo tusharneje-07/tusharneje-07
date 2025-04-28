@@ -42,10 +42,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharneje-07&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  ## 📈 Contribution Graph
+## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharneje-07&theme=react-dark&hide_border=true)
-</p>
 
 
 💡 **"Building Tech for a Better Tomorrow!"** 🚀
