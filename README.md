@@ -43,7 +43,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tusharneje-07&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  ## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharneje-07&theme=react-dark&hide_border=true)
 </p>
 
 
